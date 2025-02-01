@@ -5,6 +5,7 @@
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
+    "experimentalDecorators": true,
     "esModuleInterop": true,
     "moduleResolution": "Node16",
     "skipLibCheck": true,
